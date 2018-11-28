@@ -24,6 +24,6 @@ The list of the cars is sorted by year, and the year, make, and model of the car
 
 When the user is finished looking at the list of the cars, they can press any key to return to the main menu.
 
-##Quitting the program
+## Quitting the program
 
 When quitting the program, the program bids you farewell.  Upon your next key press, the program will close and clear your screen.
