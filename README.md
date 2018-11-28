@@ -8,9 +8,9 @@ We were tasked with developing a script that would help users maintain an invent
 
 The menu itself is very simple in nature.  It gives users the three options required to complete the task at hand:
 
-* _Add_ a car
-* _List_ the cars in the inventory file
-* _Quit_ the program
+* *Add* a car
+* *List* the cars in the inventory file
+* *Quit* the program
 
 To select a menu item, the user simply has to press the number of the corresponding option that they would like to complete.  1 to _Add_ a car, 2 to _List_ the cars in the inventory file, and 3 to _Quit_ the program.
 
