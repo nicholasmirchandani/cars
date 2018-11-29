@@ -12,7 +12,7 @@ do
 	echo -e "3) Quit the Program"
 	echo -e --------------------
 	echo -e #blank echo's are for formatting
-	read -n 1 -s -p "" command
+	read -n 1 -s -p "" command #Requires 1 character to be pressed and doesn't care about special characters.  Input is stored into the command variable
 
 	echo -e
 
