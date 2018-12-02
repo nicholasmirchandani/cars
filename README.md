@@ -1,6 +1,6 @@
 # Cars
 
-My cars.sh is a simple program that elegantly executes the task at hand. :simple_smile:
+My cars.sh is a simple program that elegantly executes the task at hand. :slightly_smiling_face:
 
 We were tasked with developing a script that would help users maintain an inventory of old cars.
 
